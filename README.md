@@ -3,11 +3,9 @@
   <img src="https://user-images.githubusercontent.com/76601369/110706242-77158d00-81ef-11eb-8085-5da6f0988553.jpg" alt="https://user-images.githubusercontent.com/76601369/110706242-77158d00-81ef-11eb-8085-5da6f0988553.jpg" width="400" height="200">
 </div>
 <body>
-
-    <p><b>After passing through the Piscine this was my first project.</b></p>
-
-    <p><b>After passing through the Piscine this was my first project.</b></p>
-    <p>In this library you will find the following functions, working as intended: </p>
+	
+  <p><b>After passing through the Piscine this was my first project.</b></p>
+  <p>In this library you will find the following functions, working as intended: </p>
   <p><i>✓bzero ✓calloc ✓memset ✓memmove ✓memchr ✓memcmp ✓memcpy </i></p>
   <p><i>✓isalpha ✓isdigit ✓isalnum ✓isascii ✓isprint ✓toupper ✓tolower ✓atoi ✓itoa </i></p>
   <p><i>✓strlen ✓strlcpy ✓strchr ✓strrchr ✓strlcat ✓strncmp ✓strnstr ✓strdup ✓substr ✓strjoin ✓strtrim ✓split </i></p>
