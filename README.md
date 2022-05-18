@@ -4,7 +4,7 @@
 </div>
 <body>
 	
-  <p><b>After passing through the Piscine this was my first project.</b></p>
+  <p><b>In this project, it is intended to create acording to <em>"the Norm"<\em> of 42 school </b></p>
   <p>In this library you will find the following functions, working as intended: </p>
   <p><i>✓bzero ✓calloc ✓memset ✓memmove ✓memchr ✓memcmp ✓memcpy </i></p>
   <p><i>✓isalpha ✓isdigit ✓isalnum ✓isascii ✓isprint ✓toupper ✓tolower ✓atoi ✓itoa </i></p>
