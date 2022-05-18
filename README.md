@@ -4,8 +4,8 @@
 </div>
 <body>
 	
-  <p>In this project, it is intended to create acording to <em>"the Norm" </em> of 42 school </p>
-  <p>In this library you will find the following functions, working as intended: </p>
+  <p>\nIn this project, it is intended to create a function that reads a given file and returns the next line, that means in the first iteration, gives the first line of the file, the second iteration the second line and so on. By the <i>rules given*<\i> and accordingly to <i><em>"the Norm" </em> of 42 school, this has to be done in less then 5 functions of maximum 25 lines each. </p><\i>
+  <p>The only allowed external functions were: read, malloc, free</p>
   <p><i>✓bzero ✓calloc ✓memset ✓memmove ✓memchr ✓memcmp ✓memcpy </i></p>
   <p><i>✓isalpha ✓isdigit ✓isalnum ✓isascii ✓isprint ✓toupper ✓tolower ✓atoi ✓itoa </i></p>
   <p><i>✓strlen ✓strlcpy ✓strchr ✓strrchr ✓strlcat ✓strncmp ✓strnstr ✓strdup ✓substr ✓strjoin ✓strtrim ✓split </i></p>
